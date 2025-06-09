@@ -1,0 +1,8 @@
+[
+    {
+        "msg_chance": 0,
+        "bot_token": "token",
+        "personality": "system prompt",
+        "model": "openai-large"
+    }
+]
